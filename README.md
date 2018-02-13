@@ -1,2 +1,15 @@
-# Bilibit (BLB)
-Bilibit (BLB) is a ERC20 token and Philippines first decentralized community-driven crypto ecosystem intended to help people in ecommerce using fast, safe and easy BLB Token. - https://www.bilibit.io
+# BILIBIT (BLB) Token
+
+**BILIBIT (BLB)** is a standard Ethereum ERC20 Token.
+
+## Intro
+
+:star: Rate our repository show us your love.
+
+## License
+
+GNU General Public License Version 3
+
+## Authors
+
+* **BILIBIT (BLB) Core Team**
